@@ -99,7 +99,3 @@ Confidence in parentage is calculated as: Confidence = (Consistent SNPs / Total 
 ### Prerequisites
 - Python 3.x
 - Pandas library
-
-### Steps to Run
-1. Clone this repository:
-
